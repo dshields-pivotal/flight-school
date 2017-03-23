@@ -9,7 +9,7 @@ resources:
   source:
     api: https://api.run.pivotal.io
     username: dshields@pivotal.io
-    password: PLACEHOLDER
+    password: {{pws-password}}
     organization: Southeast
     space: Derrick
 
